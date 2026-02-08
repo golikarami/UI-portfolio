@@ -1,4 +1,4 @@
-**UI Design Collection**
+# UI Design Collection
 
 A collection of **UI design projects** focused on clean layouts, visual hierarchy, and user-centered design principles.
 
